@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @distiny-cool
 - 👀 I’m a student in SJTU and i'm interested in Information Security
 - 🌱 I’m currently learning permeation, cryptography and so on.
-- 🚅 Welcome to my site: https://distiny-cool.github.io/
+- 🚅 Welcome to my blog: https://distiny-cool.github.io/
 - 📫 You can contact me via email 2442658787@qq.com
 
 
