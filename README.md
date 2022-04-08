@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=distiny-cool&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 👋 Hi, I’m @distiny-cool
-- 👀 I’m a student in SJTU and i'm interested in Information Security
+- 👀 I’m a student in IS-SJTU
 - 🌱 I’m currently learning permeation, cryptography and so on.
 - 🚅 Welcome to my blog: https://distiny-cool.github.io/
 - 📫 You can contact me via email 2442658787@qq.com
