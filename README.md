@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m [distiny-cool](https://github.com/distiny-cool)
 - 👀 I’m a student in SJTU
-- 🌱 I’m interested in permeation, cryptography and so on.
-- 🚅 Welcome to my blog: https://distiny-cool.github.io/
-- 📫 You can contact me via email 2442658787@qq.com
+- 🌱 I’m interested in permeation, cryptography.
+- 🚅 My blog: https://distiny-cool.github.io/
+- 📫 Email 2442658787@qq.com
 
 <!---
 distiny-cool/distiny-cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
