@@ -3,9 +3,7 @@
 - 👋 Hi, I’m [distiny-cool](https://github.com/distiny-cool)
 - 👀 I’m a student in SJTU
 - 🌱 I’m interested in permeation, cryptography and so on.
-- 🚅 Welcome to my blog: 
-
-  ​       https://distiny-cool.github.io/
+- 🚅 Welcome to my blog: https://distiny-cool.github.io/
 - 📫 You can contact me via email 2442658787@qq.com
 
 <!---
