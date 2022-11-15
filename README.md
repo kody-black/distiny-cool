@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [Kody Black](https://github.com/distiny-cool)
 - 👀 I’m a student in IS,SJTU
-- 🌱 I’m interested in permeation, cryptography.
+- 🌱 I’m interested in Linux security, permeation test, ML and so on.
 - 🚅 My blog: https://distiny-cool.github.io/
 - 📫 Email 2442658787@qq.com
 
