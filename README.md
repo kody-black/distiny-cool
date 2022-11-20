@@ -11,4 +11,12 @@
 <!---
 distiny-cool/distiny-cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+# 下面这些是一些有趣的配置，不过过于臃肿，就不使用了，来自https://github.com/alexandresanlim/Badges4-README.md-Profile
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=distiny-cool&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> <img align="right" src="https://github-profile-trophy.vercel.app/?username=distiny-cool&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=distiny-cool&theme=vue&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=distiny-cool&theme=minimal&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 --->
