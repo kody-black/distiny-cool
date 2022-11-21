@@ -4,7 +4,7 @@
 - 👀 I’m a student in IS,SJTU
 - 🌱 I’m interested in Linux security, permeation test, machine learning and so on.
 - 🚅 My blog: https://distiny-cool.github.io/
-- 📫 Email 2442658787@qq.com
+- 📫 Email tupobwq@foxmail.com
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/distiny-cool/distiny-cool/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/distiny-cool/distiny-cool/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
