@@ -6,8 +6,11 @@
 - 🚅 My blog: https://distiny-cool.github.io/
 - 📫 Email tupobwq@foxmail.com
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/distiny-cool/distiny-cool/output/github-contribution-grid-snake-dark.svg)
-![github contribution grid snake animation](https://raw.githubusercontent.com/distiny-cool/distiny-cool/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/distiny-cool/distiny-cool/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/distiny-cool/distiny-cool/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/distiny-cool/distiny-cool/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!---
 distiny-cool/distiny-cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
