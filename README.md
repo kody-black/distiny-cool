@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=distiny-cool&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kody-black&show_icons=true&hide_title=true&theme=vue-dark" />
 
 - 👋 Hi, I’m [Kody Black](https://github.com/distiny-cool)
 - 👀 I’m a student in IS,SJTU
